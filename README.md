@@ -1,7 +1,6 @@
 ### Hi!!! WELCOME TO MY GIT 👋
 
-**Bennny20/Bennny20**
-My name is ✨ Trương Quang Phiên ✨.
+**My name is ✨ Trương Quang Phiên ✨.**
 
 - 🌱 I’m currently learning FPT University
 - 💬 How to reach me: 0838228607
