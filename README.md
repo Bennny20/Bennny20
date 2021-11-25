@@ -2,10 +2,21 @@
 
 **My name is ✨ Trương Quang Phiên ✨.**
 
-- 🌱 I’m currently learning: FPT University HCM
-- 💬 How to reach me: 0838228607
-- 📫 Email: phientruong20@gmail.com
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bennny20&show_icons=true&theme=merko)
+
+**I'm from VietNam, and I'm a student at FPT University. My major is software engineering.**
+
+##Skill and Experience: 
+- Java
+- C
+- C#
+
+- 🌱 I’m currently learning: HTML/CSS/JS, C# 
 - ⚡ Fun fact: football, Music, Read book
 - 🤔 I’m looking for help with: some new tool, new language, experience 
-- 🔭 Facebook: https://www.facebook.com/phien.truong.20/
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bennny20)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/phien.truong.20/)  
+
+
+### © 2021 PhienTruongg
 
