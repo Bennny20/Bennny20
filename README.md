@@ -6,11 +6,12 @@
 
 **I'm from VietNam, and I'm a student at FPT University. My major is software engineering.**
 
-##Skill and Experience: 
+### Skill and Experience: 
 - Java
 - C
 - C#
 
+### -----
 - 🌱 I’m currently learning: HTML/CSS/JS, C# 
 - ⚡ Fun fact: football, Music, Read book
 - 🤔 I’m looking for help with: some new tool, new language, experience 
